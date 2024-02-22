@@ -11,7 +11,9 @@
 }
 
 body {
-    background-color: rgb(228, 190, 223);
+    background-color: rgb(129, 228, 255);
+    color:rgb(0, 0, 0);
+    text-decoration-color:blueviolet ;
     font-family: "Audiowide", sans-serif;
 }
 
